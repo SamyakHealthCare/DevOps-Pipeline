@@ -42,7 +42,7 @@ stage('Deploy App into Tomcat Server')
 
 
 Regards,
-Samyak.''', cc: '', from: '', replyTo: '', subject: 'Build is over...${env.BUILD_NUMBER}', to: 'satysamyak@gmail.com'
+Samyak.''', cc: '', from: '', replyTo: '', subject: 'Build is over...${env.BUILD_NUMBER}', to: 'samyakjena86@gmail.com'
  }
 
 
